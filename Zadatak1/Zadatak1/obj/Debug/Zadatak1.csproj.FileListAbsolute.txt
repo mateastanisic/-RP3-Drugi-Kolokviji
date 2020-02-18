@@ -1,0 +1,9 @@
+E:\fax\diplomski\RP3\zadaci\WForms\KOLOKVIJI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csprojAssemblyReference.cache
+E:\fax\diplomski\RP3\zadaci\WForms\KOLOKVIJI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.Form1.resources
+E:\fax\diplomski\RP3\zadaci\WForms\KOLOKVIJI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.Properties.Resources.resources
+E:\fax\diplomski\RP3\zadaci\WForms\KOLOKVIJI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.GenerateResource.cache
+E:\fax\diplomski\RP3\zadaci\WForms\KOLOKVIJI\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+E:\fax\diplomski\RP3\zadaci\WForms\KOLOKVIJI\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+E:\fax\diplomski\RP3\zadaci\WForms\KOLOKVIJI\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+E:\fax\diplomski\RP3\zadaci\WForms\KOLOKVIJI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+E:\fax\diplomski\RP3\zadaci\WForms\KOLOKVIJI\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
